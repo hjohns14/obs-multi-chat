@@ -33,13 +33,13 @@
     },
     "platformConfig": {
         "macos": {
-            "bundleId": "com.example.plugintemplate-for-obs"
+            "bundleId": "com.example.multi-chat"
         }
     },
-    "name": "plugintemplate-for-obs",
-    "displayName": "Plugin Template for OBS",
-    "version": "1.0.0",
-    "author": "Your Name Here",
-    "website": "https://example.com",
-    "email": "me@example.com"
+    "name": "multi-chat",
+    "displayName": "Multi Chat For OBS",
+    "version": "0.0.1",
+    "author": "Hunter JOhns",
+    "website": "https://github.com/hjohns14",
+    "email": "hjohns1737@gmail.com"
 }
